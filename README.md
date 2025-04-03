@@ -1,6 +1,3 @@
-Okay, here is a comprehensive `README.md` file content for your GitHub repository. You can copy and paste this directly into a `README.md` file in your repository's root directory.
-
-```markdown
 # Dynamic Programming: Minimum Path Sum Visualization
 
 📊 A step-by-step animated visualization demonstrating the Dynamic Programming algorithm solving the Minimum Path Sum problem on a 4x4 grid. See the DP table constructed cell-by-cell, with color encoding the minimum path cost.
